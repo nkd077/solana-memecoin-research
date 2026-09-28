@@ -153,4 +153,4 @@ python rhc/money.py
 ## Автор
 
 **nkd077** — магистрант СПбПУ, программная инженерия.
-Telegram: [@nkd077](https://t.me/nkd077) · email: pollynleyna@gmail.com
+Telegram: [@nkdo77](https://t.me/nkdo77) · email: pollynleyna@gmail.com

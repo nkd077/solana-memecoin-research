@@ -77,4 +77,4 @@ repository is that the strategies described here lose money on the measured mark
 ## Author
 
 **nkd077** — MSc student in Software Engineering, Peter the Great St. Petersburg Polytechnic University.
-Telegram: [@nkd077](https://t.me/nkd077) · email: pollynleyna@gmail.com
+Telegram: [@nkdo77](https://t.me/nkdo77) · email: pollynleyna@gmail.com
