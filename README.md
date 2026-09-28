@@ -154,3 +154,5 @@ python rhc/money.py
 
 **nkd077** — магистрант СПбПУ, программная инженерия.
 Telegram: [@nkdo77](https://t.me/nkdo77) · email: pollynleyna@gmail.com
+
+**Заказать разработку:** [@nkd077_orders_bot](https://t.me/nkd077_orders_bot) — услуги, цены и заявка за пару минут.

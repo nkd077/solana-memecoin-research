@@ -78,3 +78,5 @@ repository is that the strategies described here lose money on the measured mark
 
 **nkd077** — MSc student in Software Engineering, Peter the Great St. Petersburg Polytechnic University.
 Telegram: [@nkdo77](https://t.me/nkdo77) · email: pollynleyna@gmail.com
+
+**Hire me:** [@nkd077_orders_bot](https://t.me/nkd077_orders_bot) (Russian-language order bot) or write directly.
