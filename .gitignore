@@ -1,0 +1,22 @@
+# секреты
+.env
+.env.*
+!.env.example
+
+# окружение
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# данные и логи — генерируются локально, в репозиторий не идут
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+channel/raw/*
+!channel/raw/.gitkeep
+*.db
+*.db-*
+*.pkl
